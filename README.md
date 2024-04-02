@@ -1,1 +1,1 @@
-# pracrice02
+# java-maven-project
